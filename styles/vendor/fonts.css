@@ -1,0 +1,48 @@
+@font-face {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    src: url(../fonts/Montserrat-Regular.woff) format('woff');
+}
+/*не использовался*/
+@font-face {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    src: url(../fonts/Montserrat-SemiBold.woff) format('woff');
+}
+@font-face {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    src: url(../fonts/Montserrat-Bold.woff) format('woff');
+}
+@font-face {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 800;
+    src: url(../fonts/Montserrat-ExtraBold.woff) format('woff');
+}
+
+@font-face {
+    font-family: 'Neue Haas Unica W1G';
+    font-style: normal;
+    font-weight: 400;
+    src: url(../fonts/Neue-Haas-Unica-W1G.woff2) format('woff2'),
+        url(../fonts/Neue-Haas-Unica-W1G.woff) format('woff');
+}
+@font-face {
+    font-family: 'Neue Haas Unica W1G';
+    font-style: normal;
+    font-weight: 500;
+    src: url(../fonts/NeueHaasUnica-Medium.woff2) format('woff2'),
+        url(../fonts/NeueHaasUnica-Medium.woff) format('woff');
+}
+
+/* @font-face {
+    font-family: 'Inter';
+    font-style:  normal;
+    font-weight: 900;
+    src: url(../fonts/Inter-Black.woff2) format("woff2"),
+         url(../fonts/Inter-Black.woff) format("woff");
+  } */
